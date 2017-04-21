@@ -1,0 +1,60 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+.background {
+	position: absolute;
+	margin-top: -2.1%;
+	width: 99.3%;
+	height: 98.7%;
+	z-index: -1;
+}
+.title {
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	font-size: 90px;
+}
+.videoBoarder {
+	margin-left: 23.5%;
+	width: 1270px;
+	height: 710px;
+	box-shadow: 0 4px 300px 0 rgba(0, 0, 0, 0.8), 0 6px 300px 0 rgba(0, 0, 0, 0.8);
+}
+.missionStatement {
+	text-align: center;
+}
+.mission {
+	position: absolute;
+	padding: 10% 42.5% 0 47.5%;
+}
+.setOne {
+	position: absolute;
+	padding: 13% 52% 1% 25%;
+}
+.setTwo {
+	position:absolute;
+	padding: 13% 25% 1% 52%;
+}
+.setThree {
+	position: absolute;
+	padding: 20% 25% 1% 25%;
+}
+.vision {
+	padding: 24% 25% 1% 25%;
+}
+.topRow {
+	padding: 1% 0 0 10%;
+}
+.bottomRow {
+	padding: 1% 0 0 10%;
+}
+.team {
+	background-color: #3a7bd5;
+	padding-top: 1%;
+	padding-bottom: 2%;
+	text-align: center;
+}
+.team img{ 
+padding-left: 2%;
+}
